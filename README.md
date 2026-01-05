@@ -109,7 +109,7 @@ Senior Cloud Solutions Architect at Microsoft with **18+ years** of hands-on exp
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sihbher&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sihbher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -120,7 +120,7 @@ Senior Cloud Solutions Architect at Microsoft with **18+ years** of hands-on exp
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbher&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## � Featured Projects & Contributions
+## 🔥 Featured Projects & Contributions
 
 ### 🏗️ Azure Verified Modules (AVMs)
 <a href="https://github.com/sihbher/bicep-samples">
@@ -188,6 +188,9 @@ Teaching:
 <div align="left">
   <a href="https://linkedin.com/in/gerry-reyes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gereyeso@microsoft.com">
+    <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sihbher" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
