@@ -107,48 +107,62 @@ Senior Cloud Solutions Architect at Microsoft with **18+ years** of hands-on exp
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sihbher&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sihbher&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sihbher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihbher&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sihbher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihbher&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbher&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihbher&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 ## 🔥 Featured Projects & Contributions
 
 ### 🏗️ Azure Verified Modules (AVMs)
 <a href="https://github.com/sihbher/bicep-samples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=bicep-samples&show_icons=true&line_height=27&title_color=0078d4&text_color=8a919a&icon_color=0078d4&bg_color=22272e" alt="Bicep Samples" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=bicep-samples&theme=tokyonight" alt="Bicep Samples" />
 </a>
 
 Developing standardized, secure infrastructure modules for Azure resources that follow best practices and Well-Architected Framework principles.
 
 ### 🐘 Oracle Database@Azure Solutions
 <a href="https://github.com/sihbher/Migrate-VM-To-AZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Migrate-VM-To-AZ&show_icons=true&line_height=27&title_color=0078d4&text_color=8a919a&icon_color=0078d4&bg_color=22272e" alt="VM Migration to Availability Zones" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Migrate-VM-To-AZ&theme=tokyonight" alt="VM Migration to Availability Zones" />
 </a>
 
 Terraform modules, migration accelerators, and architectural patterns for seamlessly migrating Oracle workloads to Azure.
 
-### 🤖 AI-Powered DevOps Workflows
+### 🌐 Azure Front Door + WAF Solutions  
 <a href="https://github.com/sihbher/AzureFrontDoor-AppServices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=AzureFrontDoor-AppServices&show_icons=true&line_height=27&title_color=0078d4&text_color=8a919a&icon_color=0078d4&bg_color=22272e" alt="Azure Front Door + App Services" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=AzureFrontDoor-AppServices&theme=tokyonight" alt="Azure Front Door + App Services" />
 </a>
 
-Implementing GitHub Copilot and AI-assisted workflows to accelerate infrastructure-as-code development and improve developer productivity.
+Complete examples showcasing Azure Front Door with Web Application Firewall for secure, global application delivery.
 
-### 🌐 Azure Landing Zones
+### 🚀 GitOps & CI/CD Workflows
+<a href="https://github.com/sihbher/GitOps-Flux-Samples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=GitOps-Flux-Samples&theme=tokyonight" alt="GitOps Flux Samples" />
+</a>
+
+Enterprise-scale GitOps implementations with Flux for automated Kubernetes deployments and configuration management.
+
+### 🎯 DAPR Microservices Architecture
 <a href="https://github.com/sihbher/Dapr-TelemetryResender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Dapr-TelemetryResender&show_icons=true&line_height=27&title_color=0078d4&text_color=8a919a&icon_color=0078d4&bg_color=22272e" alt="DAPR Telemetry Resender" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Dapr-TelemetryResender&theme=tokyonight" alt="DAPR Telemetry Resender" />
 </a>
 
-Enterprise-scale architectures with hub-spoke topologies, ExpressRoute connectivity, and comprehensive security controls.
+Cloud-native microservices using DAPR for telemetry processing and inter-service communication.
+
+### 📊 IoT Data Pipeline Solutions
+<a href="https://github.com/sihbher/kafka2IoTHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=kafka2IoTHub&theme=tokyonight" alt="Kafka to IoT Hub" />
+</a>
+
+Real-time data streaming pipeline connecting Kafka clusters to Azure IoT Hub for edge-to-cloud data flow.
 
 ## 📝 Latest Blog Posts & Resources
 
