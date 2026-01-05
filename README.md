@@ -123,44 +123,32 @@ Senior Cloud Solutions Architect at Microsoft with **18+ years** of hands-on exp
 ## 🔥 Featured Projects & Contributions
 
 ### 🏗️ Azure Verified Modules (AVMs)
-<a href="https://github.com/sihbher/bicep-samples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=bicep-samples&theme=tokyonight" alt="Bicep Samples" />
-</a>
+**Repository:** [bicep-samples](https://github.com/sihbher/bicep-samples) | **Language:** Bicep
 
 Developing standardized, secure infrastructure modules for Azure resources that follow best practices and Well-Architected Framework principles.
 
-### 🐘 Oracle Database@Azure Solutions
-<a href="https://github.com/sihbher/Migrate-VM-To-AZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Migrate-VM-To-AZ&theme=tokyonight" alt="VM Migration to Availability Zones" />
-</a>
+### 🐘 Oracle Database@Azure Solutions  
+**Repository:** [Migrate-VM-To-AZ](https://github.com/sihbher/Migrate-VM-To-AZ) | **Language:** HCL/PowerShell
 
 Terraform modules, migration accelerators, and architectural patterns for seamlessly migrating Oracle workloads to Azure.
 
-### 🌐 Azure Front Door + WAF Solutions  
-<a href="https://github.com/sihbher/AzureFrontDoor-AppServices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=AzureFrontDoor-AppServices&theme=tokyonight" alt="Azure Front Door + App Services" />
-</a>
+### 🌐 Azure Front Door + WAF Solutions
+**Repository:** [AzureFrontDoor-AppServices](https://github.com/sihbher/AzureFrontDoor-AppServices) | **Language:** Shell
 
 Complete examples showcasing Azure Front Door with Web Application Firewall for secure, global application delivery.
 
 ### 🚀 GitOps & CI/CD Workflows
-<a href="https://github.com/sihbher/GitOps-Flux-Samples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=GitOps-Flux-Samples&theme=tokyonight" alt="GitOps Flux Samples" />
-</a>
+**Repository:** [GitOps-Flux-Samples](https://github.com/sihbher/GitOps-Flux-Samples) | **Language:** Shell
 
 Enterprise-scale GitOps implementations with Flux for automated Kubernetes deployments and configuration management.
 
 ### 🎯 DAPR Microservices Architecture
-<a href="https://github.com/sihbher/Dapr-TelemetryResender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=Dapr-TelemetryResender&theme=tokyonight" alt="DAPR Telemetry Resender" />
-</a>
+**Repository:** [Dapr-TelemetryResender](https://github.com/sihbher/Dapr-TelemetryResender) | **Language:** C#
 
 Cloud-native microservices using DAPR for telemetry processing and inter-service communication.
 
 ### 📊 IoT Data Pipeline Solutions
-<a href="https://github.com/sihbher/kafka2IoTHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sihbher&repo=kafka2IoTHub&theme=tokyonight" alt="Kafka to IoT Hub" />
-</a>
+**Repository:** [kafka2IoTHub](https://github.com/sihbher/kafka2IoTHub) | **Language:** Python
 
 Real-time data streaming pipeline connecting Kafka clusters to Azure IoT Hub for edge-to-cloud data flow.
 
